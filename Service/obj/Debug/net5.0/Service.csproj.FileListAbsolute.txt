@@ -2,7 +2,6 @@ D:\MyDemoProject\ChatRoomNet5\Service\Service\bin\Debug\net5.0\Service.deps.json
 D:\MyDemoProject\ChatRoomNet5\Service\Service\bin\Debug\net5.0\Service.dll
 D:\MyDemoProject\ChatRoomNet5\Service\Service\bin\Debug\net5.0\ref\Service.dll
 D:\MyDemoProject\ChatRoomNet5\Service\Service\bin\Debug\net5.0\Service.pdb
-D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
@@ -10,3 +9,4 @@ D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.csproj.Co
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.dll
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\ref\Service.dll
 D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.pdb
+D:\MyDemoProject\ChatRoomNet5\Service\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
